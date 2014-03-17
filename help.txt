@@ -1,0 +1,10 @@
+Thing Collector - HELP
+The game is as simple as it can get. You just have to move the falling items into their respective bins.
+
+Move an item out of screen and game over.
+
+Move an item into wrong bin and you loose points. Reach 0 points and game over.
+
+Press q within the game to exit.
+
+Press enter to exit this help menu.
